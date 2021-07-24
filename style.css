@@ -12,6 +12,7 @@ body{
 }
 img{
     width: 30%;
+    height: auto;
     margin-left: 2.5%;
 }
 @keyframes slider{
